@@ -5,6 +5,8 @@ layout: page
 order: 4
 ---
 
+van Boxtel, Willem and Laurel Lawyer (2023).  In the prime of life: ERP evidence for syntactic comprehension priming in older adults.  Journal of Language and Aging Research 1. doi:  doi: <a href="https://doi.org/10.15460/jlar.2023.1.1.1108">10.15460/jlar.2023.1.1.1108</a>
+
 Solaimani Dahanesari, Ehsan, Florence Myles and Laurel Lawyer (2023). Testing the Interpretability Hypothesis: evidence from the L2 processing of relative clauses by Persian and French learners of L2 English.  Second Language Research. doi: <a href="https://doi.org/10.1177/02676583231162783">10.1177/02676583231162783</a>
 	
 van Boxtel, Willem S. and Laurel A. Lawyer (2022) Syntactic comprehension priming and lexical boost effects in older adults. Language, Cognition and Neuroscience, 38:1, 105-120, doi: <a href="https://doi.org/10.1080/23273798.2022.2091151">10.1080/23273798.2022.2091151</a>
