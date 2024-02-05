@@ -9,7 +9,7 @@ layout: default
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}
 	<!-- Posts List -->
-	{%- for _post in _posts limit:5 -%}
+	{%- for _post in _posts limit:8 -%}
 		{%- capture _title -%}
 			{{- _post.title -}}
 		{%- endcapture -%}
